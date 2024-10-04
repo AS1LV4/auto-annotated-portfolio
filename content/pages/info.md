@@ -124,7 +124,7 @@ sections:
         actions:
           - type: Link
             label: GitHub
-            url: 'https://github.com/'
+            url: 'https://github.com/AS1LV4'
         styles:
           self:
             textAlign: left
