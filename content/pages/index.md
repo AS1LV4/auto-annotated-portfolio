@@ -14,7 +14,7 @@ sections:
     title: Óla!
     subtitle: >-
       O meu nome é Álvaro Silva e sou um estudante das escola OFICINA em Santo
-      Tirso,
+      Tirso.
     actions: []
     colors: colors-f
     backgroundSize: inset
