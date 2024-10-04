@@ -124,7 +124,7 @@ sections:
         actions:
           - type: Link
             label: GitHub
-            url: 'https://github.com/'
+            url: 'https://github.com/AS1LV4'
         styles:
           self:
             textAlign: left
@@ -156,7 +156,7 @@ sections:
         actions:
           - type: Link
             label: Discord
-            url: 'https://discord.com/'
+            url: 'https://discord.com/playbydefault'
         styles:
           self:
             textAlign: left
@@ -164,7 +164,7 @@ sections:
         actions:
           - type: Link
             label: Instagram
-            url: 'https://www.instagram.com/'
+            url: 'https://www.instagram.com/accnsilva2007/'
         styles:
           self:
             textAlign: left
