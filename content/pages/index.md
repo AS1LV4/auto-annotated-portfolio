@@ -13,7 +13,7 @@ sections:
   - type: HeroSection
     title: Óla!
     subtitle: >-
-      Chamo-me Álvaro Silva e sou um estudante das escola OFICINA em Santo
+      . Chamo-me Álvaro Silva e sou um estudante das escola OFICINA em Santo
       Tirso.
     actions: []
     colors: colors-f
