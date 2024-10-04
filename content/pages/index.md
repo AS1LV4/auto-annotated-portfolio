@@ -37,6 +37,14 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+    text: >+
+      <div style="text-align: left">. Chamo-me Álvaro Silva e sou um estudante
+      das escola OFICINA em Santo Tirso.
+
+      . Sou muito ativo, tenho interesse em aprender novas  linguagens de
+      programação, tenho curiosidade em saber como funcionam as empresas, tenho
+      gosto em arranjar computadores e compreender os erros dos mesmos.</div>
+
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
