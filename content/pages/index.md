@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - type: HeroSection
-    title: Óla
+    title: Óla!
     subtitle: 'This is my info—I''m sharing '
     actions: []
     colors: colors-f
