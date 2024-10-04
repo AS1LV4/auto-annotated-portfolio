@@ -164,7 +164,7 @@ sections:
         actions:
           - type: Link
             label: Instagram
-            url: 'https://www.instagram.com/'
+            url: 'https://www.instagram.com/accnsilva2007/'
         styles:
           self:
             textAlign: left
