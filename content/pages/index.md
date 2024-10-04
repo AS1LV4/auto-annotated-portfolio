@@ -12,7 +12,9 @@ backgroundImage:
 sections:
   - type: HeroSection
     title: Óla!
-    subtitle: 'This is my info—I''m sharing '
+    subtitle: >-
+      O meu nome é Álvaro Silva e sou um estudante das escola OFICINA em Santo
+      Tirso,
     actions: []
     colors: colors-f
     backgroundSize: inset
