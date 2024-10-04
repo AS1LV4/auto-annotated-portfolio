@@ -50,7 +50,7 @@ sections:
     elementId: ''
     actions:
       - type: Link
-        label: See all projects
+        label: Vê todos os projetos
         url: /projects
     showDate: false
     showDescription: true
