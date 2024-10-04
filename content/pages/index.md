@@ -12,9 +12,7 @@ backgroundImage:
 sections:
   - type: HeroSection
     title: Óla!
-    subtitle: >-
-      . Chamo-me Álvaro Silva e sou um estudante das escola OFICINA em Santo
-      Tirso.
+    subtitle: ''
     actions: []
     colors: colors-f
     backgroundSize: inset
