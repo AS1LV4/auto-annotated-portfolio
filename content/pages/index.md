@@ -16,16 +16,7 @@ sections:
       Sou muito ativo, tenho interesse em aprender novas  linguagens de
       programação, tenho curiosidade em saber como funcionam as empresas, adoro
       arranjar computadores e saber o que está de errado com os mesmos.
-    actions:
-      - type: Button
-        label: Hire me
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
     media:
       type: ImageBlock
       url: /images/about.jpg
