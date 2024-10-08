@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: 'EXP.01 - Página Web - Wordpress - Elementor - Woocommerce '
+title: 'Página Web - Wordpress - Elementor - Woocommerce '
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
