@@ -14,4 +14,7 @@ media:
   url: /images/Captura de ecrã 2024-10-04 154856.png
   altText: Project image
 ---
-Uma página de simulação de vendas online utilizando WORDPRESS 
+Uma página de simulação de vendas online utilizando Wordpress - Elementor - Woocommerce
+
+
+
