@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: One more cool project
+title: Protótipo de uma loja de compras de armas
 colors: colors-a
 date: '2022-01-22'
 client: Awesome client
