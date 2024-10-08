@@ -17,9 +17,9 @@ bottomSections: []
 ---
 Este WEB Site tem como objetivo dar ao utilizador uma hipótese de personalizar uma arma para compra, que na maioria dos casos uma pessoa tem que comprar uma arma e depois tem que procurar por acessórios, com este site isso fica tudo resumido a uma página com várias escolhas de acessórios.
 
-<https://docs.google.com/presentation/d/1KZj3SshAAMJxUvc8nUB_pgtqSyUrf_eX/edit?usp=drive_link&ouid=103914519127905626078&rtpof=true&sd=true>
+[PowerPoint](https://docs.google.com/presentation/d/1KZj3SshAAMJxUvc8nUB_pgtqSyUrf_eX/edit?usp=drive_link\&ouid=103914519127905626078\&rtpof=true\&sd=true)
+
+[Demonstração](https://drive.google.com/file/d/12yx1odSB3Wx27D65lshn1sYWKvgXoIud/view)
 
 
-
-<https://drive.google.com/file/d/12yx1odSB3Wx27D65lshn1sYWKvgXoIud/view>
 
