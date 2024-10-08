@@ -15,5 +15,6 @@ media:
   altText: Project image
 bottomSections: []
 ---
-Este WEB Site tem como objetivo dar ao utilizador uma hipótese de personalizar uma arma para compra, que na maioria dos casos uma pessoa tem que comprar uma arma e depois tem que procurar por acessórios, com este site isso fica tudo resumido a uma página com várias escolhas de acessórios.
+Este prototipo serviu para demonstrar como poderia ser o design de uma loja de armas 
+
 
