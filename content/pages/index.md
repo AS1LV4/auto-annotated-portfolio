@@ -16,7 +16,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/Captura de ecrã 2024-10-09 194709.png
       altText: Hero image
       caption: Caption of the image
       elementId: ''
