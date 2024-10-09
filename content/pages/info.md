@@ -130,7 +130,7 @@ sections:
       - type: Label
         label: Python
       - type: Label
-        label: V++
+        label: C++
   - type: DividerSection
     styles:
       self:
