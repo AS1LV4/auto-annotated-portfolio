@@ -150,9 +150,8 @@ sections:
     variant: variant-a
     subtitle: 'Contact:'
     colors: colors-f
-    text: |+
-      alvaroccns\@gmail.com
-
+    text: |
+      <alvaroccns@gmail.com>
   - type: DividerSection
     styles:
       self:
