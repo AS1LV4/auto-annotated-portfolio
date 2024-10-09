@@ -13,8 +13,11 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: |+
-      ## Olá!! Sou um estudante de programação e este é o meu porterfólio
+    text: >+
+      Sou muito ativo, tenho interesse em aprender novas linguagens de
+      programação, tenho curiosidade em saber como funcionam as empresas, tenho
+      gosto em arranjar computadores e saber o que está de errado com os mesmos.
+
 
 
 
