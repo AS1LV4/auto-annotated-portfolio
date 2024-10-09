@@ -130,7 +130,7 @@ sections:
       - type: Label
         label: Python
       - type: Label
-        label: Swift
+        label: V++
   - type: DividerSection
     styles:
       self:
