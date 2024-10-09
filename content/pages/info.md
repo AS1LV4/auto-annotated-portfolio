@@ -124,7 +124,7 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: Python
+        label: C#
       - type: Label
         label: php
       - type: Label
