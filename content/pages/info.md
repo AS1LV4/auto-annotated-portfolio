@@ -128,7 +128,7 @@ sections:
       - type: Label
         label: php
       - type: Label
-        label: C#
+        label: Python
       - type: Label
         label: Swift
   - type: DividerSection
