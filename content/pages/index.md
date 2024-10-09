@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - type: HeroSection
     title: olá
-    subtitle: sdfsdf
+    subtitle: Olá!! Sou um estudante de programação e este é o meu porterfólio
     actions: []
     media:
       type: ImageBlock
