@@ -12,10 +12,7 @@ backgroundImage:
 sections:
   - type: HeroSection
     title: olá
-    subtitle: >-
-      Sou muito ativo, tenho interesse em aprender novas  linguagens de
-      programação, tenho curiosidade em saber como funcionam as empresas, tenho
-      gosto em arranjar computadores e saber o que está de errado com os mesmos.
+    subtitle: sdfsdf
     actions: []
     media:
       type: ImageBlock
