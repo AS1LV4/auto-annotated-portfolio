@@ -72,14 +72,6 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: LinkedIn
-            url: 'https://www.linkedin.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
             label: Discord
             url: 'https://discord.com/playbydefault'
         styles:
