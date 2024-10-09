@@ -126,7 +126,7 @@ sections:
       - type: Label
         label: Python
       - type: Label
-        label: Microsoft Office
+        label: php
       - type: Label
         label: C++
       - type: Label
